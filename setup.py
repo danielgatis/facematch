@@ -11,7 +11,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="facematch",
-    version="1.0.0",
+    version="1.0.1",
     description="Verifies if two photos contain the same person",
     long_description=long_description,
     long_description_content_type="text/markdown",
