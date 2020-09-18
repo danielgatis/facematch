@@ -46,7 +46,7 @@ Facematch is a tool to verifies if two photos contain the same person.
             <td><img src="https://raw.githubusercontent.com/danielgatis/facematch/master/examples/daniel1.jpg" width="100" /></td>
             <td><img src="https://raw.githubusercontent.com/danielgatis/facematch/master/examples/ronaldinho1.jpg" width="100" /></td>
             <td><img src="https://raw.githubusercontent.com/danielgatis/facematch/master/examples/daniel1-ronaldinho1.png" width="100" /></td>
-            <td><span>{"match": false, "distance": 0.8705370438394476}u</span></td>
+            <td><span>{"match": false, "distance": 0.8705370438394476}</span></td>
         </tr>
     </tbody>
 </table>
