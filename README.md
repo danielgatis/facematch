@@ -106,7 +106,7 @@ Copyright (c) 2020-present [Daniel Gatis](https://github.com/danielgatis)
 
 Licensed under [MIT License](./LICENSE.txt)
 
-## Buy me a coffee
+### Buy me a coffee
 
 Liked some of my work? Buy me a coffee (or more likely a beer)
 
